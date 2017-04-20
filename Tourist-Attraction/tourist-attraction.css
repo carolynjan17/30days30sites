@@ -1,0 +1,44 @@
+﻿.margin {margin-bottom: 45px;}
+
+.container-fluid {  
+    background-color: #dde0de; 
+    color: #151415;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.content {
+    max-width: 50%;
+    font-size: 16px; 
+    margin: 0 auto;
+}
+
+.div-padding {
+    padding-top: 20px;
+}
+
+.navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 20px;
+      letter-spacing: 5px;
+      background-color: #151415;
+      color: #d6e3ee;
+      font-weight: bold;
+  }
+  .navbar-nav  li a:hover {
+      color: #f5c1a1;
+ }
+
+.bottom { 
+    background-color: #151415; 
+    color: #dae7ee; 
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    text-align: center; 
+     margin-top: -70px;
+} 
+
