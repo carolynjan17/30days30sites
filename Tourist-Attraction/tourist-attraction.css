@@ -17,20 +17,36 @@
     padding-top: 20px;
 }
 
+.navbar-custom {
+       color: #dae7ee;
+}
+
+.navbar-custom li a:hover {
+      color: #f5c1a1;
+      background-color: #151415;
+ }
+
+.active {
+       color: #151415;
+       background-color: #dae7ee;
+}
+
+.navbar-custom a:hover {
+      color: #f5c1a1;
+      background-color: #151415;
+ }
+
 .navbar {
       padding-top: 15px;
       padding-bottom: 15px;
       border: 0;
       border-radius: 0;
       margin-bottom: 0;
-      font-size: 20px;
+      font-size: 16px;
       letter-spacing: 5px;
       background-color: #151415;
-      color: #d6e3ee;
+      color: #dae7ee;
       font-weight: bold;
-  }
-  .navbar-nav  li a:hover {
-      color: #f5c1a1;
  }
 
 .bottom { 
