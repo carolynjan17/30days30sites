@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Day 4 New Product</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" type="text/css" href="new-product.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Sancreek" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-custom">
+  <div class="container">
+    <div class="navbar-header navbar-custom">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar btn-border">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand navbar-custom" href="#">THE SENSUOUS ICE CREAM SHOPPE</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a class="active" href="#">HOME</a></li>
+        <li><a class="navbar-custom" href="#">PRODUCTS</a></li>
+        <li><a class="navbar-custom" href="#">CONTACT US</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid">
+  <div class="text-center margin borders w3-animate-zoom">
+    <p> You love <span style="color: #531e2b; font-weignt: bold;">wine!</span><br><br>
+            You love <span style="color: #f2ddd2; font-weight:bold;">ice cream!</span><br><br>
+            What if you could have both?<br>
+         <img src="wine-icecream.jpg" class="img-responsive" style="display:inline" alt="Picture of ice cream cone with ice cream made of words." width="376" height="386">
+    </p>
+  </div>
+
+<div class="text-center">
+    <p> Now you can!<br>
+            Introducing: Wine Ice Cream<br><br>
+   </p>
+   <p>
+      <img src="wine-icecream-2.jpg" class="img-responsive" style="display:inline" alt="Picture of a scoop of vanilla ice cream with wine colored swirls" width="256" height="256"><br><br>
+   </p>
+   <p class="margin">
+      A rich creamy vanilla with swirls of a sweet, fruity wine made just for us. <br> 
+      Come in today for a taste. Indulge yourself. <br>
+      You deserve it.
+   </p>
+</div>
+</div>
+
+
+
+<footer class="bottom">
+  <p>Copyright (c) Carolyn A. Hipkins - 2017</p> 
+</footer>
+
+</body>
+</html>
